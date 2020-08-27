@@ -1,6 +1,6 @@
 String.toLocaleString({
 
-    "it": {
+        "it": {
     "%game-intro"           : "Join the <strong>AFL!</strong>",
     "%restart-button"       : "Play Again",
     "%keep-playing-button"  : "Keep going",
@@ -9,6 +9,8 @@ String.toLocaleString({
     "%game-over"            : "Game over!",
     "%game-explanation"     : "<strong class=\"important\">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted!</strong>",
     "%disclaimer"           : "<strong class=\"important\">Note:</strong> This site <a href=\"https://git.io/JUkHL\">git.io/JUkHL</a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a target=\"_blank\">DevKezz</a>.",
+    "%tweet1"               : "I scored \"",
+    "%tweet2"               : "at 2048-CUPCAKES #2048game",
     "%tile-legend"          : "<strong class=\"important\">The Teams:</strong>",
     '%2'                    : 'Adelaide Crows',
     '%4'                    : 'Gold Coast Suns',
@@ -48,6 +50,8 @@ String.toLocaleString({
     "%game-over"            : "Game over!",
     "%game-explanation"     : "<strong class=\"important\">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted!</strong>",
     "%disclaimer"           : "<strong class=\"important\">Note:</strong> This site <a href=\"https://git.io/JUkHL\">git.io/JUkHL</a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a target=\"_blank\">DevKezz</a>.",
+    "%tweet1"               : "I scored \"",
+    "%tweet2"               : "at 2048-CUPCAKES #2048game",
     "%tile-legend"          : "<strong class=\"important\">The Teams:</strong>",
     '%2'                    : 'Adelaide Crows',
     '%4'                    : 'Gold Coast Suns',
