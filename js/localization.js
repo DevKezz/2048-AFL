@@ -1,6 +1,6 @@
 String.toLocaleString({
 
-	"it": {
+    "it": {
     "%game-intro"           : "Join the <strong>AFL!</strong>",
     "%restart-button"       : "Play Again",
     "%keep-playing-button"  : "Keep going",
