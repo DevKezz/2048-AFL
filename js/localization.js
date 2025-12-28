@@ -6,7 +6,7 @@ String.toLocaleString({
     "%keep-playing-button"  : "Keep going",
     "%retry-button"         : "Retry",
     "%game-won"             : "You win!",
-    "%game-over"            : "Game over!"
+    "%game-over"            : "Game over!",
     "%game-explanation"     : "<strong class=\"important\">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted!</strong>",
     "%disclaimer"           : "<strong class=\"important\">Note:</strong> This site <a href=\"https://git.io/JUkHL\">git.io/JUkHL</a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a target=\"_blank\">DevKezz</a>.",
     "%tweet1"               : "I scored \"",
